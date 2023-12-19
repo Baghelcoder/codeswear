@@ -1,0 +1,6 @@
+- name: Netlify Deploy
+
+
+              
+  uses: jsmrcaga/action-netlify-deploy@v2.1.0
+  
